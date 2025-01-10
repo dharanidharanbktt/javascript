@@ -1,0 +1,6 @@
+var fruitname ="apple"
+var count ="100"
+var price =200
+var total =count*price
+console.log(fruitname)
+console.log(total)
